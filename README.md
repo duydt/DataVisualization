@@ -1,7 +1,3 @@
+https://duydt.github.io/DataVisualization/.
 # DataVisualization
 echo "# DataVisualization" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/duydt/DataVisualization.git
-git push -u origin master
