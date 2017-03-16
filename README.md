@@ -2,8 +2,11 @@ https://duydt.github.io/DataVisualization/.
 
 https://duydt.github.io/leaflet-map-simple/
 
+<iframe src=”https://duydt.github.io/leaflet-map-simple/” width=”90%” height=350></iframe>
+
 https://duydt.github.io/highcharts-scatter-csv/
 
+<iframe src=”https://duydt.github.io/highcharts-scatter-csv/” width=”90%” height=350></iframe>
 
 # DataVisualization
 echo "# DataVisualization" >> README.md
