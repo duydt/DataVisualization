@@ -6,7 +6,7 @@ https://duydt.github.io/leaflet-map-simple/
 
 https://duydt.github.io/highcharts-scatter-csv/
 
-<iframe src=”https://duydt.github.io/highcharts-scatter-csv/”  width=”90%” height=350></iframe>
+<iframe src=https://duydt.github.io/highcharts-scatter-csv/  width=”90%” height=350></iframe>
 
 # DataVisualization
 echo "# DataVisualization" >> README.md
